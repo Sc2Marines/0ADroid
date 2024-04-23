@@ -1,0 +1,8 @@
+{
+	"name": "OADroid",
+	"version": "0.0.1",
+	"label": "0ADroid bot",
+	"url": "",
+	"description": "Open source bot for 0 A.D. Empires Ascendant",
+	"dependencies": []
+}
