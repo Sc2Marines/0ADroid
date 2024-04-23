@@ -1,0 +1,8 @@
+{
+	"name": "King Warin v0.0.1",
+	"version": "0.0.1",
+	"label": "0 A.D. King Warin AI",
+	"url": "",
+	"description": "Open source AI for 0 A.D. Empires Ascendant",
+	"dependencies": []
+}

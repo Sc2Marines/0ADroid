@@ -1,0 +1,9 @@
+# what kinf of bot is it ?
+
+- Full deepLearning
+- Script + DeepLearning in some part of the gameplay e.q micromanagement of troops.
+- Full script
+- Script + Algorithms e.q genetics algorithms
+- Script + tree algorithms e.q "Recherche arborescente Monte-Carlo"
+- Script + Opponent Modeling (instead learning what to do, make a model of the opponant behaviour) and make a decision based on previous played games againts an opponant. (but very long to adapt to a new strategy and no initiatives)
+- Think to create new algos ?
