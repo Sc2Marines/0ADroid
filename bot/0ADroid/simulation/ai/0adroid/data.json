@@ -1,0 +1,7 @@
+{
+  "name": "0ADroid",
+  "description": "0ADroid is a basic bot that can be used to play 0 A.D. with friends.",
+  "moduleName": "BOT",
+  "constructor": "OADroid",
+  "useShared": true
+}

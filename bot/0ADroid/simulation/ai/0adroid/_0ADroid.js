@@ -15,4 +15,4 @@ BOT.OADroid = function (settings) {
   this.savedEvents = {};
 };
 
-PETRA.PetraBot.prototype = Object.create(API3.BaseAI.prototype);
+BOT.OADroid.prototype = Object.create(API3.BaseAI.prototype);
