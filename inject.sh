@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ./bot/0ADroid
-tar -czvf 0ADroid.zip --exclude=simulation/common-api simulation/
+zip -0 -r 0ADroid.zip --exclude=simulation/common-api simulation/
 cd ../..
 mkdir -p /home/alexa/.local/share/0ad/mods/0ADroid
 cp ./bot/0ADroid/mod.json /home/alexa/.local/share/0ad/mods/0ADroid/
