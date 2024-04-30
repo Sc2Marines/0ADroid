@@ -1,0 +1,7 @@
+{
+  "name": "0ADroid",
+  "description": "A bot for 0 A.D. Empires Ascendant",
+  "moduleName": "OADROID",
+  "constructor": "OADroid",
+  "useShared": true
+}

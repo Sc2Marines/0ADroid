@@ -4,5 +4,6 @@
   "label": "0ADroid bot",
   "url": "",
   "description": "Open source bot for 0 A.D. Empires Ascendant",
-  "dependencies": []
+  "type": "ai",
+  "dependencies": ["0ad=0.0.26"]
 }
