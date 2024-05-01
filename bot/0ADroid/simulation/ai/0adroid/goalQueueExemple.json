@@ -1,0 +1,24 @@
+[
+  {
+    "id/name": "villager",
+    "type": "unit",
+    "specType": "civilian",
+    "cost": {
+      "food": 50,
+      "wood": 0,
+      "iron": 0,
+      "stone": 0
+    }
+  },
+  {
+    "id/name": "towncenter",
+    "type": "building",
+    "specType": "civilian",
+    "cost": {
+      "food": 0,
+      "wood": 500,
+      "iron": 0,
+      "stone": 300
+    }
+  }
+]
