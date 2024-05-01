@@ -1,3 +1,11 @@
-Understand how the AI should interface with the game. (Huge part of the project)
-Understand how the AI api interact with the gamen, And if necceseray kee the current API, or modify it.
-Make a Huge dictionnary of what is possible to do in game (for each civ, unit building, etc...)
+# TODO LIST
+
+## Theory / no code / documentation
+
+- [ ] Understand how the AI should interface with the game. (Huge part of the project).
+- [ ] Understand how the AI api interact with the game, And if necessary kee the current API, or modify it.
+- [ ] Make a Huge dictionary of what is possible to do in game (for each civ, unit building, etc...).
+
+## Code
+
+- [ ] Villager repartition for resources gathering. -> Sc2Marines
